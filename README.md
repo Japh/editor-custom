@@ -1,4 +1,4 @@
 Editor-Custom
 =============
 
-A customisation of the Editor theme for WordPress
+A child theme for the Editor WordPress theme
